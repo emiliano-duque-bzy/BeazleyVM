@@ -1,0 +1,970 @@
+{
+	"RiskType": "Policy",
+	"QuoteNumber": "02029585",
+	"PolicyNumber": "VG00003922AA",
+	"PolicyId": "04003922",
+	"TransactionNumber": 362816,
+	"TransactionType": "Rollback Endorsement",
+	"PolicyStatus": "Bound",
+	"SubmissionId": "c73c0647-d5c0-44af-91c4-7051f965d060",
+	"OriginatingId": null,
+	"ExpiredPolicyNumber": null,
+	"CustomerId": 21899,
+	"PolicyEffectiveDate": "2022-05-27T00:00:00",
+	"PolicyExpirationDate": "2023-05-27T00:00:00",
+	"AssignedUnderwriter": "Amy Landefeld",
+	"UnderwriterId": "d93d311d-ec50-40f2-aab4-d16efb6ffab6",
+	"UnderwriterEmail": "amy.landefeld@beazley.com",
+	"CreatorUser": "Loren Melo",
+	"EndorserUser": "Loren Melo",
+	"NJTransactionNumber": null,
+	"CommissionPercent": 20.0,
+	"AdmittedSurplus": "BICI/Admitted",
+	"TransactionEffectiveDate": "2022-05-27T00:00:00",
+	"Timestamp": "2022-07-13T10:52:24.51",
+	"TransactionDate": "2022-07-15T00:00:00",
+	"Currency": "USD",
+	"RiskState": "NY",
+	"MarketSegment": "PE",
+	"ProductId": "a14d8d9c-f043-4113-b841-975fe8e267cf",
+	"ProductName": "Media Tech",
+	"Initiative": "Not Applicable",
+	"AffinityIdentifier": "AON Panels",
+	"AnnualRevenue": 4300000.0,
+	"SourceSystem": "GameChanger",
+	"SourceVersion": "1",
+	"NewYorkFreeTradeZone": "2-14057",
+	"BoundDate": "2022-07-15T00:00:00",
+	"IssuedDate": null,
+	"CancelledDate": null,
+	"CancelledNotes": null,
+	"ReinstatementDate": null,
+	"ReinstatementNotes": null,
+	"RateChangeMethod": "Unity Method",
+	"UWRateChange": null,
+	"UnityRateChange": 0.0,
+	"Parties": [
+		{
+			"PartyId": "ec89d2f1-dcb0-43be-b8e5-b29737e81afd",
+			"Type": "Customer",
+			"Name": "Greater New York LECET",
+			"AddressLine1": "266 W 37th Street #1100",
+			"AddressLine2": null,
+			"AddressLine3": null,
+			"AddressLine4": null,
+			"City": "New York ",
+			"StateOrRegion": "NY",
+			"Country": "United States Of America",
+			"PostalCode": "10018",
+			"NaicsCode": null
+		},
+		{
+			"PartyId": "ec89d2f1-dcb0-43be-b8e5-b29737e81afd",
+			"Type": "First Named Insured",
+			"Name": "Greater New York LECET",
+			"AddressLine1": "266 W 37th Street #1100",
+			"AddressLine2": null,
+			"AddressLine3": null,
+			"AddressLine4": null,
+			"City": "New York ",
+			"StateOrRegion": "NY",
+			"Country": "United States Of America",
+			"PostalCode": "10018",
+			"NaicsCode": null
+		}
+	],
+	"Brokers": [
+		{
+			"BrokerId": "66c6df0d-a009-42d3-8c0b-5efaaf35c725",
+			"BrokerLicenseNumber": "PC-767175",
+			"Type": "Licensed",
+			"Name": "Hub International Northeast Limited",
+			"ContactName": "Marc Cohen",
+			"AddressLine1": "1065 Avenue Of The Americas",
+			"AddressLine2": null,
+			"AddressLine3": null,
+			"AddressLine4": null,
+			"City": "New York",
+			"StateOrRegion": "NY",
+			"Country": "USA",
+			"PostalCode": "10018",
+			"Email": "marc.cohen@hubinternational.com",
+			"AgencyTradeId": "10022180",
+			"BrokerContactId": "ade4604b-a4b5-de11-b942-0050569b4327",
+			"BrokerEffectiveDate": "2022-05-27T00:00:00",
+			"BrokerExpirationDate": "2023-05-27T00:00:00"
+		},
+		{
+			"BrokerId": "66c6df0d-a009-42d3-8c0b-5efaaf35c725",
+			"BrokerLicenseNumber": "PC-767175",
+			"Type": "Submitting",
+			"Name": "Hub International Northeast Limited",
+			"ContactName": "Marc Cohen",
+			"AddressLine1": "1065 Avenue Of The Americas",
+			"AddressLine2": null,
+			"AddressLine3": null,
+			"AddressLine4": null,
+			"City": "New York",
+			"StateOrRegion": "NY",
+			"Country": "USA",
+			"PostalCode": "10018",
+			"Email": "marc.cohen@hubinternational.com",
+			"AgencyTradeId": "10022180",
+			"BrokerContactId": "ade4604b-a4b5-de11-b942-0050569b4327",
+			"BrokerEffectiveDate": "2022-05-27T00:00:00",
+			"BrokerExpirationDate": "2023-05-27T00:00:00"
+		}
+	],
+	"LineOfBusiness": [
+		{
+			"Name": "Media Tech",
+			"LobEffectiveDate": "2022-05-27T00:00:00",
+			"LobExpirationDate": "2023-05-27T00:00:00",
+			"ERPEffectiveDate": null,
+			"ERPExpirationDate": null,
+			"Benchmark": 1.0,
+			"BenchmarkPremium": 7130.0,
+			"BenchmarkDate": "2022-07-15T00:00:00",
+			"CoverageAmount": "2000000",
+			"GrossPremiumAmount": 7130.0,
+			"CommissionAmount": 1426.0,
+			"TaxAmount": 0.0,
+			"FeeAmount": 0.0,
+			"Premiums": [
+				{
+					"TransactionId": 57355,
+					"StatCode": "000",
+					"CoverageCode": "ModelPrem",
+					"CoverageDescription": "Model Premium",
+					"TransactionAmount": 7130.0,
+					"TotalAmount": 7130.0,
+					"Offset": 0.0,
+					"Onset": 7130.0,
+					"DueDate": "2022-08-14T00:00:00",
+					"TransactionEffectiveDate": "2022-05-25T00:00:00",
+					"TransactionExpiryDate": "2023-05-25T00:00:00",
+					"TransactionDate": "2022-07-13T10:48:58.4633333",
+					"ReferenceName": "PremiumCalc",
+					"ReferenceGuid": "00000000-0000-0000-0000-000000000000",
+					"AccountingPeriod": "0001-01-01T00:00:00",
+					"IsHistory": true,
+					"PolicyId": 11603,
+					"TransactionType": "New Policy",
+					"SectionID": "01"
+				}
+			],
+			"OtherTransactions": [
+				{
+					"TransactionId": 57354,
+					"Type": "Commission",
+					"StatCode": "000",
+					"CoverageCode": "Commission",
+					"CoverageDescription": "BMT Commission Amount",
+					"TransactionAmount": 1426.0,
+					"TotalAmount": 1426.0,
+					"Offset": 0.0,
+					"Onset": 1426.0,
+					"DueDate": "2022-08-14T00:00:00",
+					"TransactionEffectiveDate": "2022-05-25T00:00:00",
+					"TransactionExpiryDate": "2023-05-25T00:00:00",
+					"TransactionDate": "2022-07-13T10:48:58.4633333",
+					"ReferenceName": "PremiumCalc",
+					"ReferenceGuid": "00000000-0000-0000-0000-000000000000",
+					"TaxablePremium": 0.0,
+					"DeductionPercent": 0.2,
+					"AccountingPeriod": "0001-01-01T00:00:00",
+					"IsHistory": true,
+					"PolicyId": 11603,
+					"TransactionType": "New Policy",
+					"SectionID": "01"
+				}
+			],
+			"PremiumCalcs": [
+				{
+					"Key": "PremiumCalcId",
+					"Value": 15097
+				},
+				{
+					"Key": "ADLPremAdj",
+					"Value": 7129.8
+				},
+				{
+					"Key": "ADLPremium",
+					"Value": 0.0
+				},
+				{
+					"Key": "AdMedConHighExp",
+					"Value": 0
+				},
+				{
+					"Key": "AdMedConStand",
+					"Value": 0
+				},
+				{
+					"Key": "AddDefLimFact",
+					"Value": 1.0
+				},
+				{
+					"Key": "AdvMediaConsultLow",
+					"Value": 0
+				},
+				{
+					"Key": "ArchRecMgmt",
+					"Value": 0
+				},
+				{
+					"Key": "AutoWordPro",
+					"Value": 0
+				},
+				{
+					"Key": "BPIPercent",
+					"Value": 1.0
+				},
+				{
+					"Key": "BPIPercentDisplay",
+					"Value": "100%"
+				},
+				{
+					"Key": "BasePremAdjPrem",
+					"Value": 6513.6
+				},
+				{
+					"Key": "BaseRate",
+					"Value": 6513.6
+				},
+				{
+					"Key": "BenchPremium",
+					"Value": 7130.0
+				},
+				{
+					"Key": "CommissionAmount",
+					"Value": 1426.0
+				},
+				{
+					"Key": "CompSecConsult",
+					"Value": 0
+				},
+				{
+					"Key": "CompSecServProd",
+					"Value": 0
+				},
+				{
+					"Key": "ConAdmServHi",
+					"Value": 0
+				},
+				{
+					"Key": "ConAndAdminSys",
+					"Value": 0
+				},
+				{
+					"Key": "ConsultAdmin",
+					"Value": 0
+				},
+				{
+					"Key": "ContBIAdjPrem",
+					"Value": 6513.6
+				},
+				{
+					"Key": "ContBodInjMax",
+					"Value": 0.0
+				},
+				{
+					"Key": "ContBodInjMin",
+					"Value": 0.0
+				},
+				{
+					"Key": "ContBodInjOut",
+					"Value": 0.0
+				},
+				{
+					"Key": "CustSoftDev",
+					"Value": 0
+				},
+				{
+					"Key": "CustSoftDevHiExp",
+					"Value": 0
+				},
+				{
+					"Key": "CustSoftDevStand",
+					"Value": 0
+				},
+				{
+					"Key": "DataProHighExp",
+					"Value": 0
+				},
+				{
+					"Key": "DataProStand",
+					"Value": 0
+				},
+				{
+					"Key": "DataProStandExp",
+					"Value": 0
+				},
+				{
+					"Key": "DedAdjPremium",
+					"Value": 5401.36
+				},
+				{
+					"Key": "DevFactor",
+					"Value": 1.0
+				},
+				{
+					"Key": "EDPAudit",
+					"Value": 0
+				},
+				{
+					"Key": "ExpAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "ExpFactMax",
+					"Value": 1.0
+				},
+				{
+					"Key": "ExpFactMin",
+					"Value": 1.0
+				},
+				{
+					"Key": "ExpFactOut",
+					"Value": 1.0
+				},
+				{
+					"Key": "ExpRatingWarningMsg",
+					"Value": ""
+				},
+				{
+					"Key": "FacDedOut",
+					"Value": 0.97
+				},
+				{
+					"Key": "FacLongOut",
+					"Value": 1.0
+				},
+				{
+					"Key": "FacPriActOut",
+					"Value": 0.85
+				},
+				{
+					"Key": "FacSchedOut",
+					"Value": 1.0
+				},
+				{
+					"Key": "FeeAmount",
+					"Value": 0.0
+				},
+				{
+					"Key": "GraphDesImage",
+					"Value": 0
+				},
+				{
+					"Key": "Guid",
+					"Value": null
+				},
+				{
+					"Key": "GuidDed",
+					"Value": 8600.0
+				},
+				{
+					"Key": "ILFFactor",
+					"Value": 1.32
+				},
+				{
+					"Key": "InstallMaintSuppServ",
+					"Value": 0
+				},
+				{
+					"Key": "IntAccProv",
+					"Value": 0
+				},
+				{
+					"Key": "IntAccProvHigh",
+					"Value": 0
+				},
+				{
+					"Key": "IntAccProvidStand",
+					"Value": 0
+				},
+				{
+					"Key": "IntBaseServProd",
+					"Value": 0
+				},
+				{
+					"Key": "IntBaseServProdHiExp",
+					"Value": 0
+				},
+				{
+					"Key": "IntBaseServStand",
+					"Value": 0
+				},
+				{
+					"Key": "LimPremAdj",
+					"Value": 7129.8
+				},
+				{
+					"Key": "LongAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "MaxCred",
+					"Value": -0.15
+				},
+				{
+					"Key": "MaxDeb",
+					"Value": 0.15
+				},
+				{
+					"Key": "MinPrem",
+					"Value": 1000.0
+				},
+				{
+					"Key": "MinPremAdjPrem",
+					"Value": 5401.36
+				},
+				{
+					"Key": "MktSeg",
+					"Value": "PE"
+				},
+				{
+					"Key": "ModelPremium",
+					"Value": 7130.0
+				},
+				{
+					"Key": "MssgSchedRateMss",
+					"Value": ""
+				},
+				{
+					"Key": "MultiFactor",
+					"Value": 1.0
+				},
+				{
+					"Key": "NtwkDesAdmin",
+					"Value": 0
+				},
+				{
+					"Key": "OtherClass1",
+					"Value": 0.0
+				},
+				{
+					"Key": "OtherClass2",
+					"Value": 4300000.0
+				},
+				{
+					"Key": "OtherClass3",
+					"Value": 0.0
+				},
+				{
+					"Key": "OtherClass4",
+					"Value": 0.0
+				},
+				{
+					"Key": "OtherClass5",
+					"Value": 0.0
+				},
+				{
+					"Key": "OtherClass6",
+					"Value": 0.0
+				},
+				{
+					"Key": "PolicyPremiumTotal",
+					"Value": 7130.0
+				},
+				{
+					"Key": "PostMultiPrem",
+					"Value": 7129.8
+				},
+				{
+					"Key": "PostProgFacPrem",
+					"Value": 7129.8
+				},
+				{
+					"Key": "PreSoftProd",
+					"Value": 0
+				},
+				{
+					"Key": "PreSoftProdServHi",
+					"Value": 0
+				},
+				{
+					"Key": "PremiumTotal",
+					"Value": 7130.0
+				},
+				{
+					"Key": "PrepackSoftware",
+					"Value": 0
+				},
+				{
+					"Key": "PrioAcAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "ProgFac",
+					"Value": 1.0
+				},
+				{
+					"Key": "Proratafactor",
+					"Value": 1.0
+				},
+				{
+					"Key": "PunDamgPrem",
+					"Value": 0.0
+				},
+				{
+					"Key": "PunitiveDamagesOut",
+					"Value": 0.0
+				},
+				{
+					"Key": "RaterVersion",
+					"Value": "MEDIATECH ADMITTED NYFTZ 20190201"
+				},
+				{
+					"Key": "ResellDist",
+					"Value": 0
+				},
+				{
+					"Key": "RoundingMax",
+					"Value": 150.0
+				},
+				{
+					"Key": "RoundingMin",
+					"Value": 150.0
+				},
+				{
+					"Key": "SchedRateAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "SelectedFlagCount",
+					"Value": 1.0
+				},
+				{
+					"Key": "SiteOp",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardAccFin",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardCompAid",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardCompAidMan",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardFin",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardMedMgmt",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardMedMgmtDia",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardMgmtSys",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardPay",
+					"Value": 0
+				},
+				{
+					"Key": "SoftHardSciTech",
+					"Value": 0
+				},
+				{
+					"Key": "SysEngine",
+					"Value": 0
+				},
+				{
+					"Key": "SysIntContAuto",
+					"Value": 0
+				},
+				{
+					"Key": "Tax",
+					"Value": 0.0
+				},
+				{
+					"Key": "TechHardHigh",
+					"Value": 0
+				},
+				{
+					"Key": "TechHardStandard",
+					"Value": 0
+				},
+				{
+					"Key": "TechHardWare",
+					"Value": 0
+				},
+				{
+					"Key": "TeleComConServHighExp",
+					"Value": 0
+				},
+				{
+					"Key": "TeleCommConsult",
+					"Value": 0
+				},
+				{
+					"Key": "TelecomConServStand",
+					"Value": 0
+				},
+				{
+					"Key": "TrainEd",
+					"Value": 0
+				},
+				{
+					"Key": "UnityPremium",
+					"Value": 7130.0
+				}
+			],
+			"Limits": [
+				{
+					"Key": "ToolTip",
+					"Value": null
+				},
+				{
+					"Key": "OptionSelectedId",
+					"Value": 312795
+				},
+				{
+					"Key": "ADLPremAdj",
+					"Value": 7129.8
+				},
+				{
+					"Key": "ADLPremium",
+					"Value": 0.0
+				},
+				{
+					"Key": "AddDefLimFact",
+					"Value": 1.0
+				},
+				{
+					"Key": "AdditionalDefenseLimit",
+					"Value": 0
+				},
+				{
+					"Key": "BILossSecurityBreach",
+					"Value": 2000000
+				},
+				{
+					"Key": "BILossSystemFailure",
+					"Value": 2000000
+				},
+				{
+					"Key": "BPIPercent",
+					"Value": 1.0
+				},
+				{
+					"Key": "BPIPercentDisplay",
+					"Value": "100%"
+				},
+				{
+					"Key": "BasePremAdjPrem",
+					"Value": 6513.6
+				},
+				{
+					"Key": "BenchPremium",
+					"Value": 7130.0
+				},
+				{
+					"Key": "BreachResponseCosts",
+					"Value": 2000000
+				},
+				{
+					"Key": "Column",
+					"Value": 2
+				},
+				{
+					"Key": "CommissionAmount",
+					"Value": 1426.0
+				},
+				{
+					"Key": "ContBIAdjPrem",
+					"Value": 6513.6
+				},
+				{
+					"Key": "CriminalReward",
+					"Value": 50000
+				},
+				{
+					"Key": "CyberExtortionLoss",
+					"Value": 2000000
+				},
+				{
+					"Key": "DataAndNetwork",
+					"Value": 2000000
+				},
+				{
+					"Key": "DataRecoveryCosts",
+					"Value": 2000000
+				},
+				{
+					"Key": "DedAdjPremium",
+					"Value": 5401.36
+				},
+				{
+					"Key": "Deductible",
+					"Value": 10000
+				},
+				{
+					"Key": "DepBILossDepSecurityBreach",
+					"Value": 100000
+				},
+				{
+					"Key": "DepBILossDepSystemFailure",
+					"Value": 100000
+				},
+				{
+					"Key": "DevFactor",
+					"Value": 1.0
+				},
+				{
+					"Key": "EECLimit",
+					"Value": 2000000
+				},
+				{
+					"Key": "ExpAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "FacDedOut",
+					"Value": 0.97
+				},
+				{
+					"Key": "FeeAmount",
+					"Value": 0.0
+				},
+				{
+					"Key": "FinalModelPremium",
+					"Value": 7130.0
+				},
+				{
+					"Key": "FirstSelectedFlag",
+					"Value": null
+				},
+				{
+					"Key": "FraudulentInstruction",
+					"Value": 250000
+				},
+				{
+					"Key": "FundsTransferFraud",
+					"Value": 250000
+				},
+				{
+					"Key": "Guid",
+					"Value": "42f25a67-5d9c-4158-b34f-2b40a4689ded"
+				},
+				{
+					"Key": "ILFFactor",
+					"Value": 1.32
+				},
+				{
+					"Key": "LimPremAdj",
+					"Value": 7129.8
+				},
+				{
+					"Key": "LongAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "MaxRound",
+					"Value": 150.0
+				},
+				{
+					"Key": "Media",
+					"Value": 2000000
+				},
+				{
+					"Key": "MinPremAdjPrem",
+					"Value": 5401.36
+				},
+				{
+					"Key": "MinRound",
+					"Value": 150.0
+				},
+				{
+					"Key": "ModelPremium",
+					"Value": 7130.0
+				},
+				{
+					"Key": "PaymentCardLiabilities",
+					"Value": 2000000
+				},
+				{
+					"Key": "PolicyContainerId",
+					"Value": 15097
+				},
+				{
+					"Key": "PolicyLimit",
+					"Value": 2000000
+				},
+				{
+					"Key": "PolicyPremiumTotal",
+					"Value": 7130.0
+				},
+				{
+					"Key": "PostMultiPrem",
+					"Value": 7129.8
+				},
+				{
+					"Key": "PostProgFacPrem",
+					"Value": 7129.8
+				},
+				{
+					"Key": "Premium",
+					"Value": 7130.0
+				},
+				{
+					"Key": "PremiumOverride",
+					"Value": 7130.0
+				},
+				{
+					"Key": "PremiumSelected",
+					"Value": 7130
+				},
+				{
+					"Key": "PrioAcAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "PrivacyNotificationRetention",
+					"Value": 0
+				},
+				{
+					"Key": "PunDamgPrem",
+					"Value": 0.0
+				},
+				{
+					"Key": "RegDefensePenalties",
+					"Value": 2000000
+				},
+				{
+					"Key": "RetBILossSecurityBreach",
+					"Value": null
+				},
+				{
+					"Key": "RetBILossSystemFailure",
+					"Value": null
+				},
+				{
+					"Key": "RetCyberExtortionLoss",
+					"Value": null
+				},
+				{
+					"Key": "RetDataAndNetwork",
+					"Value": null
+				},
+				{
+					"Key": "RetDataRecoveryCosts",
+					"Value": null
+				},
+				{
+					"Key": "RetDepBILossDepSecurityBreach",
+					"Value": null
+				},
+				{
+					"Key": "RetDepBILossDepSystemFailure",
+					"Value": null
+				},
+				{
+					"Key": "RetFraudulentInstruction",
+					"Value": null
+				},
+				{
+					"Key": "RetFundsTransferFraud",
+					"Value": null
+				},
+				{
+					"Key": "RetMedia",
+					"Value": null
+				},
+				{
+					"Key": "RetPaymentCardLiabilities",
+					"Value": null
+				},
+				{
+					"Key": "RetRegDefensePenalties",
+					"Value": null
+				},
+				{
+					"Key": "RetTechAndProfServices",
+					"Value": null
+				},
+				{
+					"Key": "RetTechProduct",
+					"Value": null
+				},
+				{
+					"Key": "RetTelephoneFraud",
+					"Value": null
+				},
+				{
+					"Key": "RoundingMax",
+					"Value": 150.0
+				},
+				{
+					"Key": "RoundingMin",
+					"Value": 150.0
+				},
+				{
+					"Key": "Row",
+					"Value": 4
+				},
+				{
+					"Key": "SchedRateAdjPrem",
+					"Value": 5536.56
+				},
+				{
+					"Key": "SelectedFlag",
+					"Value": 1
+				},
+				{
+					"Key": "SelectedFlagCount",
+					"Value": 1
+				},
+				{
+					"Key": "Tax",
+					"Value": 0.0
+				},
+				{
+					"Key": "TechAndProfServices",
+					"Value": 2000000
+				},
+				{
+					"Key": "TechProduct",
+					"Value": 2000000
+				},
+				{
+					"Key": "TelephoneFraud",
+					"Value": 250000
+				},
+				{
+					"Key": "UnityPremium",
+					"Value": 7130.0
+				}
+			]
+		}
+	],
+	"Locations": [
+		{
+			"Number": "001",
+			"Guid": "7e72c214-7632-467c-914d-35c5e5267653",
+			"AddressLine1": "266 W 37th Street #1100",
+			"AddressLine2": null,
+			"City": "New York ",
+			"StateOrRegion": "NY",
+			"Country": "United States Of America",
+			"PostalCode": "10018",
+			"Employees": 0,
+			"Turnover": 0.0,
+			"LocEffectiveDate": "2022-05-27T00:00:00",
+			"LocExpirationDate": "2023-05-27T00:00:00",
+			"IsPrimary": true
+		}
+	],
+	"Reasons": null
+}

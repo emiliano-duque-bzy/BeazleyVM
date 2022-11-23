@@ -1,0 +1,63 @@
+Links__
+
+UAT
+
+•	http://insight-uat/#/my-flows ( Acceder siempre desde Citrix)
+•	https://uat.mybeazleyus.com/Beazley/Policy/BI  (AP ( accede desde Endava) – UWP ( Accede desde Citrix con el correo de Beazley)
+•	LES : http://sharepoint01.bfl.local/sites/DM/ReportCentre/_layouts/ReportServer/RSViewerPage.aspx?rv:RelativeReportUrl=/sites/DM/ReportCentre/SSRS%20Workbench%202/LES%20Transactions%20-%20GC%20-%20UAT.rdl&Source=http%3A%2F%2Fsharepoint01%2Ebfl%2Elocal%2Fsites%2FDM%2FReportCentre%2FSSRS%2520Workbench%25202%2FForms%2FAllItems%2Easpx&DefaultItemOpen=1 ( Acceder siempre desde Citrix IE)
+
+This is other access to AP-UAT, but usign the emiliano.duque.p@gmail.com / password the same I used in AP of QA.
+https://uat.mybeazleyus.com/Beazley/Portal
+
+PROD
+LES
+http://sharepoint01.bfl.local/sites/DM/ReportCentre/_layouts/ReportServer/RSViewerPage.aspx?rv:RelativeReportUrl=/sites/DM/ReportCentre/SSRS%20Workbench%202/LES%20Transactions%20-%20GC.rdl&Source=http%3A%2F%2Fsharepoint01%2Ebfl%2Elocal%2Fsites%2FDM%2FReportCentre%2FSSRS%2520Workbench%25202%2FForms%2FAllItems%2Easpx&DefaultItemOpen=1
+
+
+****************************************************************************************************************************************************
+
+
+E-fix
+
+https://efix.mybeazleyus.com/Beazley/Policy/CPP/Home/Index/63129?workId=fb9bf27334184bbe808ff2cb399197a0#tabs-1
+
+Credenciales: 
+
+suzon.diehl@beazley.com
+
+Ef1x_20200227_$
+
+
+*********************************************************************************************************************************************
+
+QA
+
+SYS-Agent Portal
+OAA-Emiliano
+CAA-Emiliano
+
+SYS-UWP-GameChanger
+Emiliano-SU
+Emiliano-UA
+Emiliano-UW
+
+QA(SYS)
+
+•	http://insight-sys/#/my-flows  ( Acceder siempre desde Citrix)
+•	Game Changer: https://qa.mybeazleyus.com/Beazley/Portal/Account/LogOn ( aplica para AP y UWP)
+•	LES: http://sharepoint01/sites/DM/ReportCentre/_layouts/ReportServer/RSViewerPage.aspx?rv:RelativeReportUrl=/sites/DM/ReportCentre/SSRS%20Workbench%202/LES%20Transactions%20-%20GC%20-%20SYS%20TEST.rdl&Source=http%3A%2F%2Fsharepoint01%2Fsites%2FDM%2FReportCentre%2FSSRS%2520Workbench%25202%2FForms%2FAllItems%2Easpx&DefaultItemOpen=1 ( Acceder siempre desde Citrix en IE )
+
+******************************************************************************************************************************************
+https://bzaccess.beazley.mobi/Citrix/BeazleyAADWeb/ (citrix)
+***********************************************************************************************************************************************
+
+LES links:
+
+QA:
+http://sharepoint01/sites/DM/ReportCentre/_layouts/ReportServer/RSViewerPage.aspx?rv:RelativeReportUrl=/sites/DM/ReportCentre/SSRS%20Workbench%202/LES%20Transactions%20-%20GC%20-%20SYS%20TEST.rdl&Source=http%3A%2F%2Fsharepoint01%2Fsites%2FDM%2FReportCentre%2FSSRS%2520Workbench%25202%2FForms%2FAllItems%2Easpx&DefaultItemOpen=1
+
+UAT:
+http://sharepoint01.bfl.local/sites/DM/ReportCentre/_layouts/ReportServer/RSViewerPage.aspx?rv:RelativeReportUrl=/sites/DM/ReportCentre/SSRS%20Workbench%202/LES%20Transactions%20-%20GC%20-%20UAT.rdl&Source=http%3A%2F%2Fsharepoint01.bfl.local%2Fsites%2FDM%2FReportCentre%2FSSRS%2520Workbench%25202%2FForms%2FAllItems.aspx&DefaultItemOpen=1
+
+PROD:
+http://sharepoint01.bfl.local/sites/DM/ReportCentre/_layouts/ReportServer/RSViewerPage.aspx?rv:RelativeReportUrl=/sites/DM/ReportCentre/SSRS%20Workbench%202/LES%20Transactions%20-%20GC.rdl&Source=http%3A%2F%2Fsharepoint01%2Ebfl%2Elocal%2Fsites%2FDM%2FReportCentre%2FSSRS%2520Workbench%25202%2FForms%2FAllItems%2Easpx&DefaultItemOpen=1
