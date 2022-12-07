@@ -1,0 +1,22 @@
+{
+    "fieldMappingDetails": {
+        "selectedRows": [],
+        "fieldMaps": {
+            "id": "External ID",
+            "summary": "Name",
+            "description": "Description",
+            "stepAction": "Step",
+            "stepData": "Testdata",
+            "stepExpectedResults": "Result",
+            "issueLinkType": "Issue Link Type",
+            "issuesToLink": "Issues Key To Link"
+        },
+        "updatedColumnValue": {}
+    },
+    "importSettings": {
+        "startingRowNumber": 2,
+        "discriminator": "BY_ID_CHANGE",
+        "selectedSheets": "",
+        "radioValue": "allSheets"
+    }
+}
